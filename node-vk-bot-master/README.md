@@ -1,1 +1,1 @@
-# node-vk-bot
+# VK bot
